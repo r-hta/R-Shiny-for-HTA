@@ -4,8 +4,12 @@ Material for the ISPOR Workshop "R Shiny for HTA" - Dec 2021
 
 Title: The Potential of R Shiny User Interfaces to Support Health Economic Decision Making
 
-Discussion Leader: Paul Schneider
-Discussants: Gianluca Baio, Rose Hart, Robert Smith
+Discussion Leader: Paul Schneider (1,2)
+
+Discussants: Gianluca Baio (4), Rose Hart (5), Robert Smith (1,2,3)
+
+1) University of Sheffield; 2) Dark Peak Analytics, 3) UK Health Security Agency (DHSC); 4) UCL; 5) BresMed
+
 
 PURPOSE: To introduce participants to R Shiny user interfaces and demonstrate how they can be used to make health economic decision models more accessible to stakeholders.
  
