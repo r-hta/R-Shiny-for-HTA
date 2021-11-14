@@ -1,3 +1,13 @@
+[![GitHub release](https://img.shields.io/badge/R-HEDS-green)](https://img.shields.io/badge/R-hello-green)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/r-hta/R-Shiny-for-HTA?color=red&style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/r-hta/R-Shiny-for-HTA?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/r-hta/R-Shiny-for-HTA?style=plastic)
+[![GitHub forks](https://img.shields.io/github/forks/r-hta/R-Shiny-for-HTA?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/r-hta/R-Shiny-for-HTA/network/)
+<br>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3730897.svg)](https://doi.org/10.5281/zenodo.3730897)
+
+
 # R Shiny for HTA
 
 Material for the ISPOR Workshop "R Shiny for HTA" - Dec 2021
