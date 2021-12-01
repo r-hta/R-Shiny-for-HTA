@@ -34,6 +34,11 @@ As health economic decision models become more computationally burdensome, the s
 
 
 __Slides:__
+* Gianluca Baio: [Introduction to R and Shiny in HTA](https://giabaio.github.io/ispor/shiny/)
+* Robert Smith:  [Tutorial](https://docs.google.com/presentation/d/1qp9pX3MBX4d_-RfIgNbx8Z3xY_I5AN9xbYAyC6EIpwk/edit?usp=sharing)
+* Rose Hart: [Tips for using R Shiny in practice](https://docs.google.com/presentation/d/1AfPlf6px9w7-sSyo6OTtJS-F02Fb13MA/edit?usp=sharing&ouid=113826930476229716727&rtpof=true&sd=true)
+
+
 
 <br>
 
